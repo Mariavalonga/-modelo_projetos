@@ -5,7 +5,7 @@ import Title from '../../components/Title'
 export default function Home() {
   return (
     <View style={styles.container}>
-      <Title Title="Today is my birthday!" />
+      <Title title="Hello World" />
     </View>
   );
 }
